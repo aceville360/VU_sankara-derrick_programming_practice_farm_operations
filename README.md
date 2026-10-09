@@ -1,0 +1,2 @@
+# VU_sankara-derrick_programming_practice_farm_operations
+In modern commercial poultry farming, maximizing profitability requires precise resource management. This pipeline connects daily biological data (feed intake, flock counts, and egg lay rates) with financial indicators (feed costs and retail egg revenues) using machine learning to assist farm operators in strategic decision-making.
